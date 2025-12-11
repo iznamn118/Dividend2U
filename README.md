@@ -76,11 +76,11 @@ You can download and install the app directly on your Android device:
 ---
 
 ## 🛠 Requirements
-* **Android Version:** Android 7.0 (Nougat) or higher[cite: 23].
+* **Android Version:** Android 7.0 (Nougat) or higher.
 * **Internet:** Not required for calculation (Offline capable).
 * **Tools Used:** Android Studio, Java/Kotlin, Git.
 
 ---
 
 ## © Copyright
-© 2025 **[YOUR NAME]**. All Rights Reserved.
+© 2025 **Muhammad Izzan Aiman Abdullah**. All Rights Reserved.
