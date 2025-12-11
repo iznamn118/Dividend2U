@@ -1,6 +1,9 @@
 # Dividend 2 U 💰
 
 ### A Mobile Application for Unit Trust Dividend Calculation
+<p align="center">
+  <img src="logo.png" alt="Dividend 2 U Logo" width="180"/>
+</p>
 *(Note: If the images don't load, please check the "Screenshots" folder in the code)*
 
 ## 📋 Table of Contents
