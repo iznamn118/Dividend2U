@@ -67,8 +67,11 @@ A complete demonstration of **Dividend 2 U**, covering the UI design, functional
 ---
 
 ## ⬇️ Installation
-You can download the latest stable version (APK) from the Releases page or build it directly from source.
-* **APK File:** [Link to your APK if available, or delete this line]
+You can download and install the app directly on your Android device:
+
+* 📱 **Download APK:** [Click Here to Download v1.0](https://github.com/iznamn118/Dividend2U/blob/master/app-debug.apk)
+
+*(Note: You may need to enable "Install from Unknown Sources" in your phone settings to install this app.)*
 
 ---
 
