@@ -1,9 +1,11 @@
 # Dividend 2 U 💰
 
 ### A Mobile Application for Unit Trust Dividend Calculation
+
 <p align="center">
   <img src="logo.png" alt="Dividend 2 U Logo" width="800"/>
 </p>
+
 *(Note: If the images don't load, please check the "Screenshots" folder in the code)*
 
 ## 📋 Table of Contents
@@ -32,28 +34,28 @@ It features a modern, responsive **"Mobile First"** UI built with Material Desig
 
 | Field | Detail |
 | :--- | :--- |
-| **Name** | **[MUHAMMAD IZZAN AIMAN BIN ABDULLAH]** |
-| **Matric No** | **[2023216782]** |
-| **Course Code** | [ICT602] |
-| **Faculty** | [COLLEGE OF COMPUTING, INFORMATIC AND MATHEMATICS] |
+| **Name** | **MUHAMMAD IZZAN AIMAN BIN ABDULLAH** |
+| **Matric No** | **2023216782** |
+| **Course Code** | ICT602 |
+| **Faculty** | COLLEGE OF COMPUTING, INFORMATICS AND MATHEMATICS |
 | **University** | Universiti Teknologi MARA (UiTM) CAWANGAN KELANTAN |
 
 ---
 
 ## ✨ Features
-* **Smart Calculation:** Instant processing of investment formulas .
+* **Smart Calculation:** Instant processing of investment formulas.
 * **Input Validation:** Ensures months do not exceed 12 and fields are not empty.
 * **Modern UI:** Features a purple gradient background, card-based layout, and custom vector icons.
 * **Responsive Design:** Optimized for various mobile screen sizes.
-* **Navigation:** Functional "About" page with developer details and GitHub integration .
+* **Navigation:** Functional "About" page with developer details and GitHub integration.
 
 ---
 
 ## 📸 Screenshots
 
 | Home Screen | Result & Validation | About Page | Selection Page |
-| :---: | :---: :---: :---: | :---: | :---: |
-| <img src="home.png" width="200"> | <img src="result.png" width="200"> <img src="result2.png" width="200"> <img src="result3.png" width="200">| <img src="about2.png" width="200"> | <img src="selection.png" width="200"> |
+| :---: | :---: | :---: | :---: |
+| <img src="home.png" width="200"/> | <img src="result.png" width="200"/><br><br><img src="result2.png" width="200"/><br><br><img src="result3.png" width="200"/> | <img src="about2.png" width="200"/> | <img src="selection.png" width="200"/> |
 
 *(Note to Lecturer: Please see the screenshots folder in the repository for high-resolution images)*
 
@@ -69,7 +71,7 @@ A complete demonstration of **Dividend 2 U**, covering the UI design, functional
 ## ⬇️ Installation
 You can download and install the app directly on your Android device:
 
-* 📱 **Download APK:** [Click Here to Download v1.0][(https://github.com/iznamn118/Dividend2U/blob/master/app-debug.apk)
+* 📱 **Download APK:** [Click Here to Download v1.0](https://github.com/iznamn118/Dividend2U/blob/master/app-debug.apk?raw=true)
 
 *(Note: You may need to enable "Install from Unknown Sources" in your phone settings to install this app.)*
 
