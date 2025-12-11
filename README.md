@@ -50,7 +50,7 @@ It features a modern, responsive **"Mobile First"** UI built with Material Desig
 
 | Home Screen | Result & Validation | About Page |
 | :---: | :---: | :---: |
-| <img src="https://via.placeholder.com/250x500?text=Home+Screen" width="200"> | <img src="https://via.placeholder.com/250x500?text=Result" width="200"> | <img src="https://via.placeholder.com/250x500?text=About" width="200"> |
+| <img src="home.png" width="200"> | <img src="result.png" width="200"> | <img src="about.png" width="200"> |
 
 *(Note to Lecturer: Please see the screenshots folder in the repository for high-resolution images)*
 
