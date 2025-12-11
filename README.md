@@ -52,8 +52,8 @@ It features a modern, responsive **"Mobile First"** UI built with Material Desig
 ## 📸 Screenshots
 
 | Home Screen | Result & Validation | About Page | Selection Page |
-| :---: | :---: | :---: | :---: |
-| <img src="home.png" width="200"> | <img src="result.png" width="200"> | <img src="about2.png" width="200"> | <img src="selection.png" width="200"> |
+| :---: | :---: :---: :---: | :---: | :---: |
+| <img src="home.png" width="200"> | <img src="result.png" width="200"> <img src="result2.png" width="200"> <img src="result3.png" width="200">| <img src="about2.png" width="200"> | <img src="selection.png" width="200"> |
 
 *(Note to Lecturer: Please see the screenshots folder in the repository for high-resolution images)*
 
