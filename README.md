@@ -41,19 +41,19 @@ It features a modern, responsive **"Mobile First"** UI built with Material Desig
 ---
 
 ## ✨ Features
-* [cite_start]**Smart Calculation:** Instant processing of investment formulas [cite: 8-10].
-* [cite_start]**Input Validation:** Ensures months do not exceed 12 and fields are not empty[cite: 7].
-* [cite_start]**Modern UI:** Features a purple gradient background, card-based layout, and custom vector icons[cite: 24].
+* **Smart Calculation:** Instant processing of investment formulas .
+* **Input Validation:** Ensures months do not exceed 12 and fields are not empty.
+* **Modern UI:** Features a purple gradient background, card-based layout, and custom vector icons.
 * **Responsive Design:** Optimized for various mobile screen sizes.
-* [cite_start]**Navigation:** Functional "About" page with developer details and GitHub integration [cite: 14-21].
+* **Navigation:** Functional "About" page with developer details and GitHub integration .
 
 ---
 
 ## 📸 Screenshots
 
-| Home Screen | Result & Validation | About Page |
-| :---: | :---: | :---: |
-| <img src="home.png" width="200"> | <img src="result.png" width="200"> | <img src="about.png" width="200"> |
+| Home Screen | Result & Validation | About Page | Selection Page |
+| :---: | :---: | :---: | :---: |
+| <img src="home.png" width="200"> | <img src="result.png" width="200"> | <img src="about2.png" width="200"> | <img src="selection.png" width="200"> |
 
 *(Note to Lecturer: Please see the screenshots folder in the repository for high-resolution images)*
 
@@ -76,7 +76,7 @@ You can download and install the app directly on your Android device:
 ---
 
 ## 🛠 Requirements
-* [cite_start]**Android Version:** Android 7.0 (Nougat) or higher[cite: 23].
+* **Android Version:** Android 7.0 (Nougat) or higher[cite: 23].
 * **Internet:** Not required for calculation (Offline capable).
 * **Tools Used:** Android Studio, Java/Kotlin, Git.
 
