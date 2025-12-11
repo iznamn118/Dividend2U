@@ -32,11 +32,11 @@ It features a modern, responsive **"Mobile First"** UI built with Material Desig
 
 | Field | Detail |
 | :--- | :--- |
-| **Name** | **[YOUR FULL NAME HERE]** |
-| **Matric No** | **[YOUR MATRIC NO HERE]** |
-| **Course Code** | [YOUR COURSE CODE] |
-| **Faculty** | [YOUR FACULTY NAME] |
-| **University** | Universiti Teknologi MARA (UiTM) |
+| **Name** | **[MUHAMMAD IZZAN AIMAN BIN ABDULLAH]** |
+| **Matric No** | **[2023216782]** |
+| **Course Code** | [ICT602] |
+| **Faculty** | [COLLEGE OF COMPUTING, INFORMATIC AND MATHEMATICS] |
+| **University** | Universiti Teknologi MARA (UiTM) CAWANGAN KELANTAN |
 
 ---
 
