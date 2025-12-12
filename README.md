@@ -10,9 +10,28 @@
 ![Status](https://img.shields.io/badge/Assignment-Completed-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
-[View Demo](#-video-presentation) • [Download APK](#-installation) • [Features](#-features)
-
 </div>
+
+---
+
+## 🧭 Table of Contents
+
+| 🔎 **Explore** | ℹ️ **Info** | ⬇️ **Get Started** |
+| :--- | :--- | :--- |
+| • [About the App](#-about-the-application) <br> • [Key Features](#-key-features) <br> • [Interface Gallery](#-interface-gallery) | • [Student Profile](#-student-profile) <br> • [Video Presentation](#-video-presentation) <br> • [Tech Stack](#-tech-stack) | • [Installation Guide](#-installation) <br> • [Requirements](#-requirements) <br> • [Copyright](#-copyright) |
+
+---
+
+## 📱 About The Application
+
+**Dividend 2 U** is a native Android financial tool developed to assist investors in accurately calculating Return on Investment (ROI) for Unit Trust funds. Built with a "Mobile-First" philosophy, it ensures a seamless user experience across different device sizes.
+
+### 🧮 How It Works
+The app uses industry-standard formulas to compute your earnings:
+
+> **Monthly Dividend** = `(Annual Rate ÷ 12) × Invested Fund`
+>
+> **Total Dividend** = `Monthly Dividend × Duration (Months)`
 
 ---
 
@@ -28,19 +47,6 @@
 **University:** Universiti Teknologi MARA (UiTM) Cawangan Kelantan
 
 </div>
-
----
-
-## 📱 About The Application
-
-**Dividend 2 U** is a native Android financial tool developed to assist investors in accurately calculating Return on Investment (ROI) for Unit Trust funds. Built with a "Mobile-First" philosophy, it ensures a seamless user experience across different device sizes.
-
-### 🧮 How It Works
-The app uses industry-standard formulas to compute your earnings:
-
-> **Monthly Dividend** = `(Annual Rate ÷ 12) × Invested Fund`
->
-> **Total Dividend** = `Monthly Dividend × Duration (Months)`
 
 ---
 
@@ -65,6 +71,8 @@ The app uses industry-standard formulas to compute your earnings:
 | <img src="home.png" width="220"/> | <img src="result.png" width="220"/><br>⬇️<br><img src="result2.png" width="220"/><br>⬇️<br><img src="result3.png" width="220"/> | <img src="about2.png" width="220"/> | <img src="selection.png" width="220"/> |
 
 </div>
+
+> *(Note: Please check the `screenshots` folder in the repository for high-resolution images)*
 
 ---
 
@@ -104,6 +112,7 @@ Ready to test the app? Download the latest APK directly to your Android device.
 
 ---
 
+## © Copyright
 <div align="center">
 
 © 2025 **Muhammad Izzan Aiman Abdullah**. All Rights Reserved.
