@@ -1,88 +1,111 @@
+<div align="center">
+
+<img src="logo.png" alt="Dividend 2 U Logo" width="250"/>
+
 # Dividend 2 U 💰
+### *Plan Today, Prosper Tomorrow*
 
-### A Mobile Application for Unit Trust Dividend Calculation
+![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Status](https://img.shields.io/badge/Assignment-Completed-success?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
-<p align="center">
-  <img src="logo.png" alt="Dividend 2 U Logo" width="800"/>
-</p>
+[View Demo](#-video-presentation) • [Download APK](#-installation) • [Features](#-features)
 
-*(Note: If the images don't load, please check the "Screenshots" folder in the code)*
-
-## 📋 Table of Contents
-1. [About the App](#-about-the-app)
-2. [Student Information](#-student-information)
-3. [Features](#-features)
-4. [Screenshots](#-screenshots)
-5. [Video Presentation](#-video-presentation)
-6. [Installation](#-installation)
-7. [Requirements](#-requirements)
+</div>
 
 ---
 
-## 📱 About the App
-**Dividend 2 U** is a native Android application designed to help investors calculate their returns from Unit Trust investments. It was developed as an individual assignment for the **Mobile Technology and Development** course.
+## 👨‍🎓 Student Profile
 
-The app accurately calculates:
-* **Monthly Dividend:** `(Annual Rate / 12) × Invested Fund`
-* **Total Dividend:** `Monthly Dividend × Duration (Months)`
+<div align="center">
 
-It features a modern, responsive **"Mobile First"** UI built with Material Design components and a custom Purple & White theme.
+| **Student Name** | **Matric Number** | **Course Code** |
+| :---: | :---: | :---: |
+| **MUHAMMAD IZZAN AIMAN BIN ABDULLAH** | **2023216782** | **ICT602** |
+
+**Faculty:** College of Computing, Informatics and Mathematics  
+**University:** Universiti Teknologi MARA (UiTM) Cawangan Kelantan
+
+</div>
 
 ---
 
-## 👨‍🎓 Student Information
+## 📱 About The Application
 
-| Field | Detail |
+**Dividend 2 U** is a native Android financial tool developed to assist investors in accurately calculating Return on Investment (ROI) for Unit Trust funds. Built with a "Mobile-First" philosophy, it ensures a seamless user experience across different device sizes.
+
+### 🧮 How It Works
+The app uses industry-standard formulas to compute your earnings:
+
+> **Monthly Dividend** = `(Annual Rate ÷ 12) × Invested Fund`
+>
+> **Total Dividend** = `Monthly Dividend × Duration (Months)`
+
+---
+
+## ✨ Key Features
+
+| Feature | Description |
 | :--- | :--- |
-| **Name** | **MUHAMMAD IZZAN AIMAN BIN ABDULLAH** |
-| **Matric No** | **2023216782** |
-| **Course Code** | ICT602 |
-| **Faculty** | COLLEGE OF COMPUTING, INFORMATICS AND MATHEMATICS |
-| **University** | Universiti Teknologi MARA (UiTM) CAWANGAN KELANTAN |
+| 💸 **Smart Calculator** | Instant real-time calculation of dividends. |
+| 🛡️ **Auto-Validation** | Prevents errors by limiting duration to **12 months**. |
+| 🎨 **Modern UI** | Beautiful **Purple & White** gradient theme with card layouts. |
+| 📱 **Responsive** | Optimized layouts for various screen densities. |
+| 🔗 **GitHub Integration** | Direct link to the source code from the "About" page. |
 
 ---
 
-## ✨ Features
-* **Smart Calculation:** Instant processing of investment formulas.
-* **Input Validation:** Ensures months do not exceed 12 and fields are not empty.
-* **Modern UI:** Features a purple gradient background, card-based layout, and custom vector icons.
-* **Responsive Design:** Optimized for various mobile screen sizes.
-* **Navigation:** Functional "About" page with developer details and GitHub integration.
+## 📸 Interface Gallery
 
----
+<div align="center">
 
-## 📸 Screenshots
-
-| Home Screen | Result & Validation | About Page | Selection Page |
+| **Home Screen** | **Calculation Results** | **About Page** | **Selection Page** |
 | :---: | :---: | :---: | :---: |
-| <img src="home.png" width="200"/> | <img src="result.png" width="200"/><br><br><img src="result2.png" width="200"/><br><br><img src="result3.png" width="200"/> | <img src="about2.png" width="200"/> | <img src="selection.png" width="200"/> |
+| <img src="home.png" width="220"/> | <img src="result.png" width="220"/><br>⬇️<br><img src="result2.png" width="220"/><br>⬇️<br><img src="result3.png" width="220"/> | <img src="about2.png" width="220"/> | <img src="selection.png" width="220"/> |
 
-*(Note to Lecturer: Please see the screenshots folder in the repository for high-resolution images)*
+</div>
 
 ---
 
 ## 📺 Video Presentation
-A complete demonstration of **Dividend 2 U**, covering the UI design, functionality test cases, and code walkthrough.
 
-### ▶️ [Click Here to Watch the Presentation](https://youtu.be/PmNzlue6Ir4?si=12lpKTJnjFYMInJd)
+Watch the full demonstration covering UI design, functionality test cases, and code walkthrough.
+
+<div align="center">
+
+[![Watch the video](https://img.shields.io/badge/WATCH_PRESENTATION-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/PmNzlue6Ir4?si=12lpKTJnjFYMInJd)
+
+</div>
 
 ---
 
 ## ⬇️ Installation
-You can download and install the app directly on your Android device:
 
-* 📱 **Download APK:** [Click Here to Download v1.0](https://github.com/iznamn118/Dividend2U/blob/master/app-debug.apk?raw=true)
+Ready to test the app? Download the latest APK directly to your Android device.
 
-*(Note: You may need to enable "Install from Unknown Sources" in your phone settings to install this app.)*
+<div align="center">
+
+<a href="https://github.com/iznamn118/Dividend2U/blob/master/app-debug.apk?raw=true">
+  <img src="https://img.shields.io/badge/DOWNLOAD_APK_v1.0-6200EE?style=for-the-badge&logo=android&logoColor=white" height="40"/>
+</a>
+
+</div>
+
+*(Note: You may need to enable "Install from Unknown Sources" in your Android settings.)*
 
 ---
 
-## 🛠 Requirements
-* **Android Version:** Android 7.0 (Nougat) or higher.
-* **Internet:** Not required for calculation (Offline capable).
-* **Tools Used:** Android Studio, Java/Kotlin, Git.
+## 🛠 Tech Stack
+* **Language:** Java
+* **IDE:** Android Studio
+* **Version Control:** Git & GitHub
+* **Minimum SDK:** Android 7.0 (Nougat)
 
 ---
 
-## © Copyright
+<div align="center">
+
 © 2025 **Muhammad Izzan Aiman Abdullah**. All Rights Reserved.
+
+</div>
