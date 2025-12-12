@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.png" alt="Dividend 2 U Logo" width="250"/>
+<img src="logo.png" alt="Dividend 2 U Logo" width="800"/>
 
 # Dividend 2 U 💰
 ### *Plan Today, Prosper Tomorrow*
