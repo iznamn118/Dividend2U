@@ -1,16 +1,14 @@
 <div align="center">
 
-<img src="logo.png" alt="Dividend 2 U Logo" width="250"/>
+<img src="logo.png" alt="Dividend 2 U Logo" width="800"/>
 
 # Dividend 2 U 💰
 ### *Plan Today, Prosper Tomorrow*
 
-![Platform](https://img.shields.io/badge/PLATFORM-ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Language](https://img.shields.io/badge/LANGUAGE-JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Status](https://img.shields.io/badge/ASSIGNMENT-COMPLETED-success?style=for-the-badge)
-![License](https://img.shields.io/badge/LICENSE-MIT-007EC6?style=for-the-badge)
-
-[View Demo](#-video-presentation) • [Download APK](#-installation) • [Features](#-features)
+![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Status](https://img.shields.io/badge/Assignment-Completed-success?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 </div>
 
@@ -68,9 +66,9 @@ The app uses industry-standard formulas to compute your earnings:
 
 <div align="center">
 
-| **Home Screen** | **Result & Validation** | **About Page** | **Selection Page** |
+| **Home Screen** | **Calculation Results** | **About Page** | **Selection Page** |
 | :---: | :---: | :---: | :---: |
-| <img src="home.png" width="220"/> | <img src="result.jpg" width="220"/> | <img src="about.png" width="220"/> | <img src="selection.png" width="220"/> |
+| <img src="home.png" width="220"/> | <img src="result.png" width="220"/><br>⬇️<br><img src="result2.png" width="220"/><br>⬇️<br><img src="result3.png" width="220"/> | <img src="about2.png" width="220"/> | <img src="selection.png" width="220"/> |
 
 </div>
 
