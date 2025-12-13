@@ -94,7 +94,7 @@ Ready to test the app? Download the latest APK directly to your Android device.
 
 <div align="center">
 
-<a href="https://github.com/iznamn118/Dividend2U/blob/main/Dividend2U.apk?raw=true">
+<a href="(https://github.com/iznamn118/Dividend2U/blob/main/app-debug.apk)?raw=true">
   <img src="https://img.shields.io/badge/DOWNLOAD_APK_v1.0-6200EE?style=for-the-badge&logo=android&logoColor=white" height="40"/>
 </a>
 
